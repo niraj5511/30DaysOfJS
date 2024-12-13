@@ -14,3 +14,8 @@ Today in 2nd day, I learned to use different Math objects and also to generate r
 <h4>
 Today in 3rd day, I learned different arithmetic, logical, comparison, increment/decrement operators. Also, gained some insights on few window methods like alert(), prompt(), confirm(). Along with these, I learned to work with date object using different methods like getFullYear(), getMonth(), getDate(), etc.
 </h4>
+
+<!-- 04-Day -->
+<h4>
+Today in 4th day, I learned to handle conditions using conditonal statements like if, if else, if else if else, swith case, ternary operator, etc. 
+</h4>
