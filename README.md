@@ -20,3 +20,8 @@ Today in 3rd day, I learned different arithmetic, logical, comparison, increment
 <h4>
 Today in 4th day, I learned to handle conditions using conditonal statements like if, if else, if else if else, swith case, ternary operator, etc. 
 </h4>
+
+<!-- 05-Day -->
+<h4>
+Today in 5th day, I learned about array in JavaScript. I implemented various methods of manipulating array to handle different situations like fill(), concat(), indexOf(), toString(), join(), splice(), slice(), push(), etc.
+</h4>
