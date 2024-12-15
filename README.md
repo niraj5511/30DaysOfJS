@@ -25,3 +25,8 @@ Today in 4th day, I learned to handle conditions using conditonal statements lik
 <h4>
 Today in 5th day, I learned about array in JavaScript. I implemented various methods of manipulating array to handle different situations like fill(), concat(), indexOf(), toString(), join(), splice(), slice(), push(), etc.
 </h4>
+
+<!-- 06-Day -->
+<h4>
+Today in 6th day, I learned use of loops like for loop, while loop, do while loop, for of loop, etc along with proper knowledge of break and continue statement.
+</h4>
