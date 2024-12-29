@@ -30,3 +30,8 @@ Today in 5th day, I learned about array in JavaScript. I implemented various met
 <h4>
 Today in 6th day, I learned use of loops like for loop, while loop, do while loop, for of loop, etc along with proper knowledge of break and continue statement.
 </h4>
+
+<!-- Reason of Discontinuity -->
+<h4>
+After completetion of 6th day of 30 days JavaScript Challenge, I had to discontinue it due to my academics exams. I resumed the challenge after completion of exams from 29th December 2024.
+</h4>
