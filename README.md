@@ -35,3 +35,8 @@ Today in 6th day, I learned use of loops like for loop, while loop, do while loo
 <h4>
 After completetion of 6th day of 30 days JavaScript Challenge, I had to discontinue it due to my academics exams. I resumed the challenge after completion of exams from 29th December 2024.
 </h4>
+
+<!-- 07-Day -->
+<h4>
+Today in 7th day, I learned about Functions in JavaScript. I learned different ways of declaring functions like declaration function, expression function, anonymous function, arrow function, etc. Also I learned to handle return statements and parameters of function including passing default parameter.
+</h4>
