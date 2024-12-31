@@ -45,3 +45,8 @@ Today in 7th day, I learned about Functions in JavaScript. I learned different w
 <h4>
 Today in 8th day, I learned about the scope of variables declared in JavaScript. Also, I  understood about objects including creation of objects, getting object values, and different object methods like Object.assign(), Object.values(), Object.keys(), etc.
 </h4>
+
+<!-- 09-Day -->
+<h4>
+Today in 9th day, I learned about high order function and knew about callback. Also, I learned about scheduling using setting time methods. Along with these, I mainly learned about different built in methods in functional programming like forEach(), map(), every(), find(), some(), sort(), etc.
+</h4>
