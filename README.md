@@ -50,3 +50,8 @@ Today in 8th day, I learned about the scope of variables declared in JavaScript.
 <h4>
 Today in 9th day, I learned about high order function and knew about callback. Also, I learned about scheduling using setting time methods. Along with these, I mainly learned about different built in methods in functional programming like forEach(), map(), every(), find(), some(), sort(), etc.
 </h4>
+
+<!-- 10-Day -->
+<h4>
+Today in 10th day, I learned about set and different methods to manipulate it like creating set from array, adding element to set, deleting element, clearing set, union, intersection, difference, etc. Similarly, I learned about map and methods to manipulate it like creating map from array, adding values, getting value from map, etc.
+</h4>
