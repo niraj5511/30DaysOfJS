@@ -55,3 +55,8 @@ Today in 9th day, I learned about high order function and knew about callback. A
 <h4>
 Today in 10th day, I learned about set and different methods to manipulate it like creating set from array, adding element to set, deleting element, clearing set, union, intersection, difference, etc. Similarly, I learned about map and methods to manipulate it like creating map from array, adding values, getting value from map, etc.
 </h4>
+
+<!-- 11-Day -->
+<h4>
+Today in 11th day, I learned about destructuring and spread. I got insights on destructuring arrays and objects. Also, I learned the use of spread operator like for copying array and objects, modifying object during copying, getting rest elements as array, etc. along with its use with arrow function.
+</h4>
