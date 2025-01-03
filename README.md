@@ -60,3 +60,8 @@ Today in 10th day, I learned about set and different methods to manipulate it li
 <h4>
 Today in 11th day, I learned about destructuring and spread. I got insights on destructuring arrays and objects. Also, I learned the use of spread operator like for copying array and objects, modifying object during copying, getting rest elements as array, etc. along with its use with arrow function.
 </h4>
+
+<!-- 12-Day -->
+<h4>
+Today in 12th day, I learned about regular expressions and how to create it using constructor and without using constructor. Also, I learned different object methods like test(), match(), search(), replace(), etc. In addition, I got some insights on different meta characters like [], \, +, *, ., ?, ^, etc, along with the quantifiers. 
+</h4>
