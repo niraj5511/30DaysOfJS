@@ -66,7 +66,12 @@ Today in 11th day, I learned about destructuring and spread. I got insights on d
 Today in 12th day, I learned about regular expressions and how to create it using constructor and without using constructor. Also, I learned different object methods like test(), match(), search(), replace(), etc. In addition, I got some insights on different meta characters like [], \, +, *, ., ?, ^, etc, along with the quantifiers. 
 </h4>
 
-<!-- 14-Day -->
+<!-- 13-Day -->
 <h4>
 Today in 13th day, I learned different console object methods like log(), warn(), error(), table(), group(), time(), info(), assert(), count(), clear(), etc. along with the practical examples of their use.
+</h4>
+
+<!-- 14-Day -->
+<h4>
+Today in 14th day, I learned about error handling in JavaScript. I got insights on use of try, catch, finally, and throw statement. Also, I got to know about different common errors that may occur like ReferenceError, SyntaxError, TypeError, etc.
 </h4>
