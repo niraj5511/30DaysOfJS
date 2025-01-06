@@ -75,3 +75,8 @@ Today in 13th day, I learned different console object methods like log(), warn()
 <h4>
 Today in 14th day, I learned about error handling in JavaScript. I got insights on use of try, catch, finally, and throw statement. Also, I got to know about different common errors that may occur like ReferenceError, SyntaxError, TypeError, etc.
 </h4>
+
+<!-- 15-Day -->
+<h4?>
+Today in 15th day, i learned about object oriented concept in javascript i.e, classes and inheritances. I learned to create class including the multiple ways of defining constructor and methods of class(regular, setter, getter). Also, I learned to implement the inheritance including overriding methods.
+</h4>
