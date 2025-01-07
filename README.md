@@ -77,6 +77,11 @@ Today in 14th day, I learned about error handling in JavaScript. I got insights 
 </h4>
 
 <!-- 15-Day -->
-<h4?>
+<h4>
 Today in 15th day, i learned about object oriented concept in javascript i.e, classes and inheritances. I learned to create class including the multiple ways of defining constructor and methods of class(regular, setter, getter). Also, I learned to implement the inheritance including overriding methods.
+</h4>
+
+<!-- 16-Day -->
+<h4>
+Today in 16th day, I learned about JSON(JavaScript Object Notation). I explored how to convert JSON to object and vice versa using methods like JSON.parse() to convert JSON to object, and JSON.stringify() for vice versa.
 </h4>
