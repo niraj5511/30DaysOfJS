@@ -85,3 +85,8 @@ Today in 15th day, i learned about object oriented concept in javascript i.e, cl
 <h4>
 Today in 16th day, I learned about JSON(JavaScript Object Notation). I explored how to convert JSON to object and vice versa using methods like JSON.parse() to convert JSON to object, and JSON.stringify() for vice versa.
 </h4>
+
+<!-- 17-Day -->
+<h4>
+Today in 17th day, I learned about HTML5 Web Storage(sessionStorage and localStorage). I knew about use cases of both objects. Also, I learned in further detail about localStorage like setting item using localStorage.setItem(), getting data using localStorage.getItem(), clearing storage using localStorage.clear(), etc.
+</h4>
