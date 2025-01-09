@@ -90,3 +90,8 @@ Today in 16th day, I learned about JSON(JavaScript Object Notation). I explored 
 <h4>
 Today in 17th day, I learned about HTML5 Web Storage(sessionStorage and localStorage). I knew about use cases of both objects. Also, I learned in further detail about localStorage like setting item using localStorage.setItem(), getting data using localStorage.getItem(), clearing storage using localStorage.clear(), etc.
 </h4>
+
+<!-- 18-Day -->
+<h4>
+Today in 18th day, I learned about callback and promise in JavaScript. I also got to know about Async and Await. Along with theses, I practiced to fetch APIs using promise, async and await.
+</h4>
