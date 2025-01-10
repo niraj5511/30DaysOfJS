@@ -95,3 +95,8 @@ Today in 17th day, I learned about HTML5 Web Storage(sessionStorage and localSto
 <h4>
 Today in 18th day, I learned about callback and promise in JavaScript. I also got to know about Async and Await. Along with theses, I practiced to fetch APIs using promise, async and await.
 </h4>
+
+<!-- 19-Day -->
+<h4>
+Today in 19th day, I learned about closure i.e, accessing variables of outer function by inner functions.
+</h4>
