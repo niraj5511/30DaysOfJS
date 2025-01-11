@@ -100,3 +100,8 @@ Today in 18th day, I learned about callback and promise in JavaScript. I also go
 <h4>
 Today in 19th day, I learned about closure i.e, accessing variables of outer function by inner functions.
 </h4>
+
+<!-- 20-Day -->
+<h4>
+Today in 20th day, I learned about how to write a clean code that makes code easily understable when number of people increase in team for any project, following some specific guidelines. For example :- using camelCase for variables and functions, variable name starting with letter, using arrow functions instead of regular function declaration, making array names plural, etc.
+</h4>
