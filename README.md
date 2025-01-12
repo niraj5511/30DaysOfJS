@@ -103,5 +103,10 @@ Today in 19th day, I learned about closure i.e, accessing variables of outer fun
 
 <!-- 20-Day -->
 <h4>
-Today in 20th day, I learned about how to write a clean code that makes code easily understable when number of people increase in team for any project, following some specific guidelines. For example :- using camelCase for variables and functions, variable name starting with letter, using arrow functions instead of regular function declaration, making array names plural, etc.
+Today in 20th day, I learned about how to write a clean code that makes code easily understandable when number of people increase in team for any project, following some specific guidelines. For example :- using camelCase for variables and functions, variable name starting with letter, using arrow functions instead of regular function declaration, making array names plural, etc.
+</h4>
+
+<!-- 21-Day -->
+<h4>
+Today in 21st day, I learned about the Document Object Model(DOM) and it was 1st day of DOM. I learned about getting elements by different ways like getElementsByTagName(), getElementsByClassName(), getElementById(), querySelector(), querySelectorAll(), etc. Also, I learned about adding attributes and text conents along with styles.
 </h4>
