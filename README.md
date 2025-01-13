@@ -110,3 +110,8 @@ Today in 20th day, I learned about how to write a clean code that makes code eas
 <h4>
 Today in 21st day, I learned about the Document Object Model(DOM) and it was 1st day of DOM. I learned about getting elements by different ways like getElementsByTagName(), getElementsByClassName(), getElementById(), querySelector(), querySelectorAll(), etc. Also, I learned about adding attributes and text conents along with styles.
 </h4>
+
+<!-- 22-Day -->
+<h4>
+Today in 22nd day, I learned as Day 2 of DOM. I learned about creating HTML elements using document.createElement() with loop for multiple elements. Also, I learned about appending child to a parent element using appendChild() method and removing a child element from parent node using removeChild() method.
+</h4>
