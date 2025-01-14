@@ -115,3 +115,8 @@ Today in 21st day, I learned about the Document Object Model(DOM) and it was 1st
 <h4>
 Today in 22nd day, I learned as Day 2 of DOM. I learned about creating HTML elements using document.createElement() with loop for multiple elements. Also, I learned about appending child to a parent element using appendChild() method and removing a child element from parent node using removeChild() method.
 </h4>
+
+<!-- 23-Day -->
+<h4>
+Today in 23rd day, I learned as Day 3 of DOM. I learned about event handling i.e, adding different event listeners like click, dblclick, mouseenter, etc using method addEventListener().Also, I got to know about getting values from an input element and getting keyCode of keyboard keys using keypress.
+</h4>
