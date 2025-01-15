@@ -120,3 +120,8 @@ Today in 22nd day, I learned as Day 2 of DOM. I learned about creating HTML elem
 <h4>
 Today in 23rd day, I learned as Day 3 of DOM. I learned about event handling i.e, adding different event listeners like click, dblclick, mouseenter, etc using method addEventListener().Also, I got to know about getting values from an input element and getting keyCode of keyboard keys using keypress.
 </h4>
+
+<!-- 24-Day -->
+<h4>
+Today in 24th day, I created a web application that calculates the weight of an object on different planets using HTML, CSS, and JavaScript.
+</h4>
