@@ -1,0 +1,19 @@
+.heading {
+  color: white;
+  font-size: 50px;
+  margin-bottom: 50px;
+}
+.container{
+  justify-items: center;
+}
+.text-field,.dropdown,.calculate{
+  padding: 10px;
+}
+.earth{
+  width: 180px;
+  margin-top: 60px;
+  margin-left: 550px;
+}
+.calculate:hover{
+  background-color: aqua;
+}
