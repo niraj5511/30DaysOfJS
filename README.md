@@ -125,3 +125,8 @@ Today in 23rd day, I learned as Day 3 of DOM. I learned about event handling i.e
 <h4>
 Today in 24th day, I created a web application that calculates the weight of an object on different planets using HTML, CSS, and JavaScript.
 </h4>
+
+<!-- 25-Day -->
+<h4>
+Today in 25th day, I was assigned to develop a web page of visualizing top 10 countries and languages in bar charts using HTML, CSS and JavaScript which I almost completed, and will finish soon later on.
+</h4>
