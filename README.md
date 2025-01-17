@@ -130,3 +130,8 @@ Today in 24th day, I created a web application that calculates the weight of an 
 <h4>
 Today in 25th day, I was assigned to develop a web page of visualizing top 10 countries and languages in bar charts using HTML, CSS and JavaScript which I almost completed, and will finish soon later on.
 </h4>
+
+<!-- 26-Day -->
+<h4>
+Today in 26th day, I was assigned to visualize the countries of the world and to develop a web design to filter out the countries based on the initials and words provided by user on search box. Till now, I have created the basic UI and some countries are added to the list. Now its remaining to add filtering functionalities and other more countries, which will be completed as soon as possible.
+</h4>
