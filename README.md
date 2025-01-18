@@ -135,3 +135,8 @@ Today in 25th day, I was assigned to develop a web page of visualizing top 10 co
 <h4>
 Today in 26th day, I was assigned to visualize the countries of the world and to develop a web design to filter out the countries based on the initials and words provided by user on search box. Till now, I have created the basic UI and some countries are added to the list. Now its remaining to add filtering functionalities and other more countries, which will be completed as soon as possible.
 </h4>
+
+<!-- 27-Day -->
+<h4>
+Today in 27th day, I was assigned to create simple portfolio website of author using HTML, CSS, and JavaScript. 
+</h4>
