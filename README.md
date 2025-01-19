@@ -140,3 +140,8 @@ Today in 26th day, I was assigned to visualize the countries of the world and to
 <h4>
 Today in 27th day, I was assigned to create simple portfolio website of author using HTML, CSS, and JavaScript. 
 </h4>
+
+<!-- 28-Day -->
+<h4>
+Today in 28th day, I was assigned to create simple web application just like the interface of any To-do-list app using HTML, CSS, and JavaScript. Validations are added now it's remaining to add the functionality of updating the list based on added information, which will be completed as soon as possible.
+</h4>
