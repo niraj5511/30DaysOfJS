@@ -145,3 +145,8 @@ Today in 27th day, I was assigned to create simple portfolio website of author u
 <h4>
 Today in 28th day, I was assigned to create simple web application just like the interface of any To-do-list app using HTML, CSS, and JavaScript. Validations are added now it's remaining to add the functionality of updating the list based on added information, which will be completed as soon as possible.
 </h4>
+
+<!-- 29-Day -->
+<h4>
+Today in 29th day, I was assigned to create a project that contains animation of changing colours of words and backgrounds. I managed to add the requirements but its still remaining to add designs and animations, which will be completed soon as possible.
+</h4>
