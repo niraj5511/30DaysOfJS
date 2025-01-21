@@ -150,3 +150,8 @@ Today in 28th day, I was assigned to create simple web application just like the
 <h4>
 Today in 29th day, I was assigned to create a project that contains animation of changing colours of words and backgrounds. I managed to add the requirements but its still remaining to add designs and animations, which will be completed soon as possible.
 </h4>
+
+<!-- 30-Day -->
+<h4>
+Today in 30th day, I was assigned to complete the validation of forms using regular expressions. I have added validations to name and email fields and it's remaining to add validations on other fields, which will be completed soon.
+</h4>
