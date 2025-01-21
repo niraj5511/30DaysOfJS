@@ -1,0 +1,54 @@
+.heading {
+  font-family: "Cambria";
+  text-align: center;
+}
+.first,
+.second,
+.third,
+.fourth,
+.fifth,
+.sixth {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-self: center;
+}
+#first-name,
+#last-name,
+#email,
+#password,
+#telephone,
+#bio {
+  margin-bottom: 5px;
+  font-family: "Cambria";
+}
+#text1,
+#text2,
+#text3,
+#text4,
+#text5,
+#text5,
+#text6 {
+  width: 320px;
+  padding: 8px;
+}
+.btn {
+  display: flex;
+  justify-content: center;
+}
+button {
+  margin-right: 270px;
+  margin-top: 14px;
+  padding: 10px;
+}
+#invalidFirstName,
+#invalidLastName,
+#invalidEmail,
+#invalidPassword,
+#invalidTelephone,
+#invalidBio {
+  margin-top: 5px;
+  font-weight: bold;
+  color: orange;
+  text-align: center;
+}
